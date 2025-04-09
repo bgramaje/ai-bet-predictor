@@ -1,0 +1,15 @@
+INFO 2025-04-09 23:13:50,942 [_config.py:<module>:91]
+No custom team name replacements found. You can configure these in /home/bgramaje/workspace/ai-bet-predictor/fbref/config/teamname_replacements.json.
+
+INFO 2025-04-09 23:13:50,945 [_config.py:<module>:197]
+No custom league dict found. You can configure additional leagues in /home/bgramaje/workspace/ai-bet-predictor/fbref/config/league_dict.json.
+
+INFO 2025-04-09 23:13:50,955 [_common.py:__init__:263]
+Saving cached data to /home/bgramaje/workspace/ai-bet-predictor/fbref/data/FBref
+
+INFO 2025-04-09 23:13:50,961 [_common.py:__init__:263]
+Saving cached data to /home/bgramaje/workspace/ai-bet-predictor/fbref/data/MatchHistory
+
+INFO 2025-04-09 23:13:51,322 [match_history.py:_parse_csv:17]
+Parsing league=SP1 season=2425
+
